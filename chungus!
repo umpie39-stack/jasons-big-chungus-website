@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jason Big CHUNGUS</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #f2f2f2;
+    }
+
+    /* HERO SECTION */
+    .hero {
+        position: relative;
+        height: 90vh;
+        width: 100%;
+        background-image: url("YOUR_BACKGROUND_IMAGE.jpg");
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .hero-text {
+        background: rgba(0,0,0,0.45);
+        padding: 30px 50px;
+        border-radius: 8px;
+        color: white;
+    }
+
+    .hero-text h1 {
+        font-size: 3rem;
+        margin: 0;
+        font-weight: bold;
+    }
+
+    .hero-text p {
+        font-size: 1.2rem;
+        margin-top: 10px;
+    }
+
+    .cta-button {
+        margin-top: 20px;
+        background: red;
+        padding: 12px 22px;
+        border-radius: 4px;
+        color: white;
+        text-decoration: none;
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+
+    .logo-bar {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+        background: white;
+    }
+
+    .logo-bar div {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #555;
+    }
+</style>
+</head>
+<body>
+
+<!-- HERO SECTION -->
+<div class="hero">
+    <div class="hero-text">
+        <h1>Jason Big CHUNGUS</h1>
+        <p>Jason Big CHUNGUS • Jason Big CHUNGUS • Jason Big CHUNGUS</p>
+        <a href="#" class="cta-button">Jason Big CHUNGUS</a>
+    </div>
+</div>
+
+<!-- LOGO BAR (mimicking vehicle brand strip) -->
+<div class="logo-bar">
+    <div>CHUNGUS 1</div>
+    <div>CHUNGUS 2</div>
+    <div>CHUNGUS 3</div>
+    <div>CHUNGUS 4</div>
+    <div>CHUNGUS 5</div>
+</div>
+
+</body>
+</html>
